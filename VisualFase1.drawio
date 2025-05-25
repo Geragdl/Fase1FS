@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="Arquitectura_Fase1FS" id="IxOGfHAKd5Z18NIdPeLQ">
-    <mxGraphModel dx="1585" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,8 +12,8 @@
             <mxGeometry x="70" y="100" width="760" height="310" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Figura 1. Arquitectura del Sistema&amp;nbsp;&amp;nbsp;&lt;br&gt;Frontend**: React.js con Axios para solicitudes HTTP.&amp;nbsp;&amp;nbsp;&lt;br&gt;- Backend**: API REST en Node.js/Express.&amp;nbsp;&amp;nbsp;&lt;br&gt;- Base de Datos**: MongoDB gestionada con Mongoose." link="**Figura 1. Arquitectura del Sistema**  &#xa;- **Frontend**: React.js con Axios para solicitudes HTTP.  &#xa;- **Backend**: API REST en Node.js/Express.  &#xa;- **Base de Datos**: MongoDB gestionada con Mongoose." id="cso1zRc5m28L9GwiXwP7-1">
-          <mxCell style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <UserObject label="Figura 1. Arquitectura del Sistema&amp;nbsp;&amp;nbsp;&lt;br&gt;Frontend**: React.js con Axios para solicitudes HTTP.&amp;nbsp;&amp;nbsp;&lt;br&gt;- Backend: API REST en Node.js/Express.&amp;nbsp;&amp;nbsp;&lt;br&gt;- Base de Datos: MongoDB gestionada con Mongoose." link="**Figura 1. Arquitectura del Sistema**  &#xa;- **Frontend**: React.js con Axios para solicitudes HTTP.  &#xa;- **Backend**: API REST en Node.js/Express.  &#xa;- **Base de Datos**: MongoDB gestionada con Mongoose." id="cso1zRc5m28L9GwiXwP7-1">
+          <mxCell style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
             <mxGeometry x="60" y="350" width="460" height="240" as="geometry" />
           </mxCell>
         </UserObject>
